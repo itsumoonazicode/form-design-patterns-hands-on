@@ -13,3 +13,10 @@
 .mb20 {
 	margin-bottom: 20px;
 }
+.mb100 {
+	margin-bottom: 100px;
+}
+
+.second ::placeholder {
+	color: black;
+}
