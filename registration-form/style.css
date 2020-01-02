@@ -1,0 +1,15 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	border: 2px solid #ccc;
+	width: 400px;
+	padding: 30px;
+}
+.submit {
+	padding: 10px;
+	width: 100px;
+}
+
+.mb20 {
+	margin-bottom: 20px;
+}
